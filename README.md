@@ -101,5 +101,5 @@ This project is open-source and free to use under the **MIT License**.
 ## 📞 Contact
 For any questions or contributions, feel free to reach out:
 📧 **Email:** eliudedwin5@gmail.com  
-🐙 **GitHub:** [Your GitHub](https://github.com/edwin463)
+🐙 **GitHub:** [https://github.com/edwin463](https://github.com/edwin463)
 
